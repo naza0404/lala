@@ -10,8 +10,58 @@
     "country_code": "PL"
   },
   {
+    "postal_code": "61-001",
+    "place_name": "Poznań",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "50-001",
+    "place_name": "Wrocław",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "80-001",
+    "place_name": "Gdańsk",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "75-001",
+    "place_name": "Koszalin",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "20-001",
+    "place_name": "Lublin",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "15-001",
+    "place_name": "Białystok",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "10-001",
+    "place_name": "Olsztyn",
+    "country_code": "PL"
+  },
+  {
+    "postal_code": "41-001",
+    "place_name": "Katowice",
+    "country_code": "PL"
+  },
+  {
     "postal_code": "10115",
     "place_name": "Berlin",
+    "country_code": "DE"
+  },
+  {
+    "postal_code": "20095",
+    "place_name": "Hamburg",
+    "country_code": "DE"
+  },
+  {
+    "postal_code": "80331",
+    "place_name": "München",
     "country_code": "DE"
   },
   {
@@ -20,8 +70,28 @@
     "country_code": "FR"
   },
   {
+    "postal_code": "69001",
+    "place_name": "Lyon",
+    "country_code": "FR"
+  },
+  {
+    "postal_code": "06000",
+    "place_name": "Nice",
+    "country_code": "FR"
+  },
+  {
     "postal_code": "00100",
     "place_name": "Rome",
+    "country_code": "IT"
+  },
+  {
+    "postal_code": "20100",
+    "place_name": "Milano",
+    "country_code": "IT"
+  },
+  {
+    "postal_code": "40100",
+    "place_name": "Bologna",
     "country_code": "IT"
   },
   {
@@ -30,53 +100,13 @@
     "country_code": "ES"
   },
   {
-    "postal_code": "1050",
-    "place_name": "Budapest",
-    "country_code": "HU"
+    "postal_code": "08001",
+    "place_name": "Barcelona",
+    "country_code": "ES"
   },
   {
-    "postal_code": "1000",
-    "place_name": "Bruxelles",
-    "country_code": "BE"
-  },
-  {
-    "postal_code": "1100",
-    "place_name": "Wien",
-    "country_code": "AT"
-  },
-  {
-    "postal_code": "1000",
-    "place_name": "Sofia",
-    "country_code": "BG"
-  },
-  {
-    "postal_code": "1000",
-    "place_name": "Ljubljana",
-    "country_code": "SI"
-  },
-  {
-    "postal_code": "1000",
-    "place_name": "Zagreb",
-    "country_code": "HR"
-  },
-  {
-    "postal_code": "1051",
-    "place_name": "Tallinn",
-    "country_code": "EE"
-  },
-  {
-    "postal_code": "LV-1001",
-    "place_name": "Rīga",
-    "country_code": "LV"
-  },
-  {
-    "postal_code": "LT-01100",
-    "place_name": "Vilnius",
-    "country_code": "LT"
-  },
-  {
-    "postal_code": "00100",
-    "place_name": "Helsinki",
-    "country_code": "FI"
+    "postal_code": "41001",
+    "place_name": "Sevilla",
+    "country_code": "ES"
   }
 ]
